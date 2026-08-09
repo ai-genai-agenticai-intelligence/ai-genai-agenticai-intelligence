@@ -1,4 +1,4 @@
-<h1 align="center"> Hey 👋, Hi — I'm Abhishek Sahoo | AI Engineer</h1>
+<h1 align="center">Hi 👋, I'm Abhishek Sahoo</h1>
 
 <h3 align="center">
 AI Engineer • Machine Learning Developer • Problem Solver
