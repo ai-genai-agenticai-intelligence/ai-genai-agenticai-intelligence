@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhishek Sahoo</h1>
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:0078FF&height=180&section=header&text=Welcome%20To%20My%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
 <h3 align="center">
 AI Engineer • Machine Learning Developer • Problem Solver
 </h3>
@@ -10,9 +14,7 @@ AI Engineer • Machine Learning Developer • Problem Solver
 
 ---
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:0078FF&height=180&section=header&text=Welcome%20To%20My%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-</p>
+
 
 
 
