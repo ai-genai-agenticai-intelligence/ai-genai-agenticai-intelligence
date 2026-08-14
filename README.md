@@ -105,7 +105,7 @@ AI Engineer • Machine Learning Developer • Problem Solver
 
 # 🔥 GitHub Streak
 <p align="center">
-  <img src="" alt="Top Languages" height="140" />
+  <img src="https://github.com/ai-genai-agenticai-intelligence" alt="Top Languages" height="140" />
 </p>
 
 ---
