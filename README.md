@@ -104,9 +104,8 @@ AI Engineer • Machine Learning Developer • Problem Solver
 ---
 
 # 🔥 GitHub Streak
-
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=ai-genai-agenticai-intelligence&theme=tokyonight&hide_border=true"/>
+  <img src="" alt="Top Languages" height="140" />
 </p>
 
 ---
