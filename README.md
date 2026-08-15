@@ -20,8 +20,8 @@ AI Engineer • Machine Learning Developer • Problem Solver
 
 
 # 💫 About Me
-
 <img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="350" src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/assets/ai-animation.gif"/>
 
 - 🤖 AI Engineer specializing in **Machine Learning & Generative AI**
 - 💻 Skilled in **Python, TensorFlow, PyTorch, LangChain, Hugging Face**
