@@ -8,9 +8,7 @@
 AI Engineer • Machine Learning Developer • Problem Solver
 </h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+ML+Developer;Deep+Learning+%7C+Generative+AI+%7C+LLMs;Building+Intelligent+Systems+and+AI+Applications;Always+Exploring+New+Technologies" />
-</p>
+
 
 ---
 
